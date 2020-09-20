@@ -221,7 +221,7 @@ nav ul a:hover{
 }
 .section3 .image{
     position:relative;
-    width:50%;
+    width:100%;
 }
 .section3 .image__img{
     display: block;
